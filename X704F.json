@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "datetime": 1795526334,
+    "files": [
+      {
+        "filename": "lineage-23.2-20261124-UNOFFICIAL-X704F.zip",
+        "os_patch_level": "2026-11-01",
+        "os_sdk_level": 36,
+        "sha256": "74213620f6483c0e717a682f8cdae6d816370a5f128b8ca7a89b38f339ba2c5d",
+        "size": 1342889651,
+        "url": "https://github.com/knaepel/android_ota_lenovo_X704F/releases/download/23.2-20261124-UNOFFICIAL-X704F-1318/lineage-23.2-20261124-UNOFFICIAL-X704F.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2"
+  }
+]
